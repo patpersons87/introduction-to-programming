@@ -1,0 +1,1 @@
+# In the second block of code, x is outside of the scope, so it is going to throw an error
