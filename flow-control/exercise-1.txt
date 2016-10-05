@@ -1,0 +1,5 @@
+1. false, since 128 < 129
+2. false, since false != false is a false statement
+3. false, since true is not 4
+4. true, since 847 == '874' is false
+5. true, by nature of the computation
