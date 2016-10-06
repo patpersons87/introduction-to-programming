@@ -1,0 +1,3 @@
+a would be e
+b would be A
+c would be nil

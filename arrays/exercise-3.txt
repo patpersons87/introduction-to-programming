@@ -1,0 +1,1 @@
+In order to print "example", I would type arr.last.first
